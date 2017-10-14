@@ -1,0 +1,13 @@
+setClockTime 05 45
+start 00 00
+start 05 30
+cancel 00 00
+start 00 00
+cancel 00 00
+cancel 00 00
+cancel 00 00
+start 45 00
+setClockTime 03 15
+cancel 00 00
+setClockTime 03 15
+cancel 00 00

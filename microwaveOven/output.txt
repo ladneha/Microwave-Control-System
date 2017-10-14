@@ -1,0 +1,41 @@
+
+Transition : Idle -> Setting Time
+Time of the day set 05:45
+Transition : Setting Time -> Idle
+Display Time : 05:45
+Transition : Idle -> Cooking
+Cooking started for 05:30
+Transition : Cooking -> Paused
+Cooking Paused...
+Transition : Paused -> Cooking
+Cooking resumed...
+Transition : Cooking -> Paused
+Cooking Paused...
+Transition : Paused -> Idle
+Cooking Stopped...
+Display Time : 05:45
+Transition : Idle -> Setting Time
+Time of the day set 05:45
+Transition : Setting Time -> Idle
+Display Time : 05:45
+Transition : Idle -> Cooking
+Cooking started for 05:30
+Transition : Cooking -> Paused
+Cooking Paused...
+Transition : Paused -> Cooking
+Cooking resumed...
+Transition : Cooking -> Paused
+Cooking Paused...
+Transition : Paused -> Idle
+Cooking Stopped...
+Display Time : 05:45
+Need to start some operation for stoping.. 
+Transition : Idle -> Cooking
+Cooking started for 45:00
+Stop the current operation before going to the next...
+Transition : Cooking -> Paused
+Cooking Paused...
+Need to stop the current operation before proceeding
+Transition : Paused -> Idle
+Cooking Stopped...
+Display Time : 03:15
